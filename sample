@@ -1,0 +1,144 @@
+    <title>Register</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="./piggyvest-logo. 4 sign up task.svg"alt="piggyvest-logo">
+ 
+    <div class="Signup">
+        <h2>Create a secure account</h2>  
+        <h6>Welcome to the future of savings & investment</h6><br>
+      <form>
+        <label for="Full Name"> Full Name:</label> 
+        <br>
+        <input type="text" placeholder="Full Name">
+        <br>
+        <label for="Email">Email Address:</label>
+        <br>
+        <input type="Email" placeholder="Email Address">
+        <br>
+        <label for="Phone Number">Phone Number:</label>
+        <br>
+        <input type="text" placeholder="Phone Number">
+        <br>
+        <label for="Password">Password:</label>
+        <br>
+        <input type="text" placeholder="Password">
+        <br>
+        <label for="Referrer Phone or Promo Code">Referrer Phone or Promo Code:</label>
+        <br>
+        <input type="text" placeholder="Referrer Phone or Code">
+        <br>
+        <label for="How Did You Hear About Us?(Optional)">How Did You Hear About Us?(Optional):</label>
+        <br>
+        <input type="text" placeholder="Click to Select                                                   |">
+        <br>
+        <button class="Buttton">CREATE ACCOUNT</button>
+
+      </form>
+        
+    </div>
+    
+    
+     <h5>Already have an account?Log In</h5>
+ </body>
+</html>
+
+input {
+    background: #edf2f7;
+    width: 336px;
+    padding: 16px;
+    border: 0px;
+    border-radius: 0.25rem;
+    margin: 4px 0px 32px;
+    }
+label{
+    color: #4A5568;
+    text-align: left !important;
+   }
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
+}
+.Signup{
+    padding: 40px 40px 48px;
+    border-radius: 1.25rem 1.25rem 1.25rem 0rem;
+    background-color: white;
+ }
+button{
+    color: #ffffff;
+    font-family: 14px U8, sans-serif;
+    background: #083E9E;
+    margin: 32px 0px 0px;
+    width: 368px;
+    padding: 20px 40px 16px;
+    border:0px;
+    border-radius: 0.75rem 0.75rem 0.75rem 0rem;
+
+}
+img{
+    margin: 0px 0px 48px;
+    align-content: center;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h2{
+    margin: 0px;
+    color: #083E9E;
+    text-align: center;
+    font-family: 24px sans-serif;
+}
+h6{
+    margin:0px 0px 32px;
+    color: #4A5568;
+    font-family: 14px Karla, sans-serif;
+    text-align: center;
+}
+h5{
+    font-family: 14px karla, sans-serif;
+    color: white;
+    padding: 4px 20px;
+    margin: 32px 0px 0px;
+}
+body{
+    background-color: #ADD8E6;
+
+}
+input{
+    color: #ADD8E6;
+}
+.body{
+    padding: 40px 40px 48px;
+    border-radius: 1.25rem 1.25rem 1.25rem 1.25rem;
+    background-color: white;
+}
+.contact{
+    align-content: center;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px 20px 28px;
+    border-radius: 1.25rem 1.25rem 1.25rem 1.25rem;
+    background-color: white;
+}
+h4{
+    color: deepskyblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h5{
+    text-align: center;
+    color: deepskyblue;
+}
+h3{
+    text-align: center;
+    color: deepskyblue;
+}
+     margin-bottom: 20px;
+    margin-top: 0px;
+
+  for About   align-content: center;
+    margin: 32px 32px 32px;
+    display: inline-block;
